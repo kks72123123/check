@@ -1,0 +1,33 @@
+,Определенная по алгоритму группа,Предсказанная моделью группа,Название вакансии
+0,admin,admin,Системный администратор / IT-специалист
+1,other,team lead,Ведущий специалист ИТ
+2,team lead,team lead,"Ведущий эксперт, руководитель группы SAP ERP FI-AA"
+3,other,team lead,IT-специалист
+4,team lead,team lead,Главный специалист отдела поддержки телекоммуникаций
+5,managers,support,Менеджер по продажам на телефоне
+6,other,team lead,IT-специалист
+7,admin,admin,Системный администратор
+8,programmer,team lead,Разработчик Java
+9,other,team lead,"Электрослесарь по ремонту и обслуживанию АиСИЭ 5 разряда (г. Билибино, ЧАО)"
+10,programmer,programmer,"Разработчик-программист микроконтроллеров, схемотехник"
+11,managers,support,Менеджер по продажам / Аккаунт-менеджер
+12,engineer,tester,Инженер-тестировщик
+13,other,team lead,Разработчик 1С / Ведущий разработчик 1С / Эксперт 1С
+14,programmer,programmer,Программист PHP
+15,admin,support,Системный администратор
+16,engineer,team lead,VoIP инженер
+17,programmer,programmer,Программист 1С
+18,engineer,team lead,Инженер-технолог
+19,other,programmer,Разработчик BI (Qlik Sense)
+20,admin,admin,Системный администратор
+21,admin,team lead,"Системный администратор, IT-специалист"
+22,engineer,team lead,Инженер по наладке и испытаниям
+23,programmer,engineer,Junior frontend разработчик
+24,tester,team lead,"QA-специалист, QA-тестировщик (удаленно)"
+25,support,support,Консультант технической поддержки
+26,engineer,team lead,Инженер-конструктор
+27,engineer,team lead,Инженер-технолог
+28,programmer,programmer,"Web-программист, web-разработчик"
+29,managers,admin,Администратор баз данных SQL
+30,other,team lead,Помощник SEO-специалиста
+31,analytics,programmer,Аналитик BI

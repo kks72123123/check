@@ -31,6 +31,18 @@ data_set = data_set.drop('it_group', 1)
 data_set = data_set.drop(data_set.columns[0], axis=1)  # удаляю колонку с индексом
 X = data_set.values
 x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=0.30, random_state=29)
+a = 123
+a = 123
+a = 123
+a = 123
+a = 123
+a = 123
+
+a = 123
+a = 123
+a = 123
+a = 123
+
 123
 LR_model = LogisticRegression()
 LR_model.fit(x_train, y_train)
